@@ -14,6 +14,16 @@ Aprendé cómo crear, renderizar, hostear y compartir una web app interactiva co
 [![](https://anaconda.org/anaconda/anaconda/badges/installer/conda.svg)](https://docs.conda.io/en/latest/miniconda.html)
 [![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)  
 
-```shell
+## Temario
 
-```
+* 🤓 Instalar las herramientas necesarias: *[python](https://www.python.org/downloads/), [git](https://git-scm.com/downloads), [jupyterlab](https://jupyter.org) (o notebook), [ipywidgets](https://ipywidgets.readthedocs.io/en/latest/)*
+    * También vamos a usar *[voilá](https://github.com/voila-dashboards/voila), [binder](https://mybinder.org/)*
+    * Y necesitamos tener una cuenta en [Github](https://github.com/)
+* 🐙 Crear un nuevo repo en [Github](https://github.com/)
+* 👯 ¡Crear web interactiva! 
+    * Mínimos preparativos del entorno ([jupyterlab](https://jupyter.org))
+    * Amigarse con la documentación oficial ([ipywidgets](https://ipywidgets.readthedocs.io/en/latest/))
+    * Agregar algunos elementos interactivos ([ipywidgets](https://ipywidgets.readthedocs.io/en/latest/))
+    * ¡Divertirnos!
+    * Render del notebook ([voilá](https://github.com/voila-dashboards/voila))
+    * Publicar y presumir nuestra webapp con [binder](https://mybinder.org/)
